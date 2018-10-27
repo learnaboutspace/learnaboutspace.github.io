@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://musefree.com/index.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://musefree.com/blog.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://musefree.com/day-1.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,13 +26,19 @@
   </url>
   <url>
     <loc>http://musefree.com/day-2.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://musefree.com/contact.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://musefree.com/video.html</loc>
+    <lastmod>2018-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
