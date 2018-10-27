@@ -1,0 +1,49 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1540607818723">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="blog.css" crc="143064436" ref="blog"/>
+    <file name="contact.css" crc="3927719757" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3843092986" ref="contact"/>
+    <file name="index.css" crc="263166010" ref="index"/>
+    <file name="iefonts_index.css" crc="4191049844" ref="index"/>
+    <file name="day-2.css" crc="4292521634" ref="day-2"/>
+    <file name="day-1.css" crc="32085896" ref="day-1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:day-1:day-2:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:blog:day-1:day-2:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blog:day-1:day-2:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:blog:day-1:day-2:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:blog:day-1:day-2:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:blog:day-1:day-2:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:blog:day-1:day-2:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contact"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u305.php" crc="187955868" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:blog:day-1:day-2:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:blog:day-1:day-2:contact"/>
+    <file name="require.js" crc="7928878" ref="index:blog:day-1:day-2:contact"/>
+    <file name="form-u1511.php" crc="4191885332" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="bg1.jpg" crc="4147264612" ref="index:blog:day-1:day-2:contact">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg2.jpg" crc="3950595014" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 540x284.jpg" crc="4139930813" seo="true" ref="day-1">
+      <caption webpage="day-1" alt=""/>
+    </file>
+    <file name="pasted image 1920x960.jpg" crc="272146435" seo="true" ref="day-1">
+      <caption webpage="day-1" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="463571270" seo="true" mt="1540607184488" redirect="true"/>
+  <file name="blog.html" crc="468425796" seo="true" mt="1540606825430" redirect="true"/>
+  <file name="day-1.html" crc="56179126" seo="true" mt="1540607000540" redirect="true"/>
+  <file name="day-2.html" crc="3881468185" seo="true" mt="1540606687383" redirect="true"/>
+  <file name="contact.html" crc="3858935881" seo="true" mt="1540606755653" redirect="true"/>
+</manifest>
