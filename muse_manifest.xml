@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1540655295568">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1540735427040">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="blog.css" crc="18313759" ref="blog"/>
+    <file name="blog.css" crc="3951336003" ref="blog"/>
     <file name="contact.css" crc="433679476" ref="contact"/>
     <file name="iefonts_contact.css" crc="3991204206" ref="contact"/>
     <file name="index.css" crc="4114825265" ref="index"/>
@@ -9,7 +9,7 @@
     <file name="day-2.css" crc="3997475493" ref="day-2"/>
     <file name="day-1.css" crc="215536956" ref="day-1"/>
     <file name="master_a-master.css" crc="55423753" ref="blog:contact:index:day-2:video:day-1"/>
-    <file name="video.css" crc="4158356629" ref="video"/>
+    <file name="video.css" crc="348339831" ref="video"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:day-1:day-2:contact:video"/>
@@ -43,10 +43,10 @@
       <caption webpage="day-1" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4266467016" seo="true" mt="1540655198273" redirect="true"/>
-  <file name="blog.html" crc="483297448" seo="true" mt="1540655206441" redirect="true"/>
+  <file name="index.html" crc="502988723" seo="true" mt="1540735268787" redirect="true"/>
+  <file name="blog.html" crc="4280191070" seo="true" mt="1540660817595" redirect="true"/>
   <file name="day-1.html" crc="4124227542" seo="true" mt="1540655214606" redirect="true"/>
   <file name="day-2.html" crc="257900462" seo="true" mt="1540655159483" redirect="true"/>
   <file name="contact.html" crc="3935650875" seo="true" mt="1540654753941" redirect="true"/>
-  <file name="video.html" crc="3958516541" seo="true" mt="1540655142183" redirect="true"/>
+  <file name="video.html" crc="461853976" seo="true" mt="1540660307697" redirect="true"/>
 </manifest>
