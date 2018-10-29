@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1540846611317">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1540846916790">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="blog.css" crc="4150961543" ref="blog"/>
+    <file name="blog.css" crc="3890073854" ref="blog"/>
     <file name="contact.css" crc="126972905" ref="contact"/>
     <file name="iefonts_contact.css" crc="4094432723" ref="contact"/>
     <file name="index.css" crc="301469694" ref="index"/>
@@ -33,6 +33,7 @@
   <folder name="images">
     <file name="bg1.jpg" crc="4147264612" ref="index:blog:contact:oct.2318:oct.2418">
       <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
     </file>
     <file name="bg2.jpg" crc="3950595014" ref="index">
       <caption webpage="index" alt=""/>
@@ -53,7 +54,7 @@
     </file>
   </folder>
   <file name="index.html" crc="4049859107" seo="true" mt="1540845905258" redirect="true"/>
-  <file name="blog.html" crc="388317630" seo="true" mt="1540846562052" redirect="true"/>
+  <file name="blog.html" crc="49482582" seo="true" mt="1540846869286" redirect="true"/>
   <file name="contact.html" crc="434023541" seo="true" mt="1540845905258" redirect="true"/>
   <file name="video.html" crc="117152285" seo="true" mt="1540845905258" redirect="true"/>
   <file name="oct.2318.html" crc="4149234351" seo="true" mt="1540846471956" redirect="true"/>
