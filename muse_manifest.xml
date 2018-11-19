@@ -1,0 +1,129 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1542667017761">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="391068299" ref="nov.1318:pictures2:nov.818:blog:nov.1118:oct.2918:nov.918:oct.2318:nov.118:nov.1218:nov.1918:oct.3118:contact:oct.2418:nov.718:index:pictures:video:video2"/>
+    <file name="nov_1318.css" crc="396446089" ref="nov.1318"/>
+    <file name="pictures2.css" crc="286495341" ref="pictures2"/>
+    <file name="nov_818.css" crc="477463493" ref="nov.818"/>
+    <file name="blog.css" crc="3832260822" ref="blog"/>
+    <file name="nov_1118.css" crc="246157097" ref="nov.1118"/>
+    <file name="oct_2918.css" crc="230462986" ref="oct.2918"/>
+    <file name="nov_918.css" crc="14424798" ref="nov.918"/>
+    <file name="oct_2318.css" crc="3795499048" ref="oct.2318"/>
+    <file name="nov_118.css" crc="210347416" ref="nov.118"/>
+    <file name="nov_1218.css" crc="4017685084" ref="nov.1218"/>
+    <file name="nov_1918.css" crc="288956210" ref="nov.1918"/>
+    <file name="oct_3118.css" crc="326759444" ref="oct.3118"/>
+    <file name="contact.css" crc="260429876" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4094432723" ref="contact"/>
+    <file name="oct_2418.css" crc="3856234657" ref="oct.2418"/>
+    <file name="nov_718.css" crc="4137300967" ref="nov.718"/>
+    <file name="index.css" crc="4041540266" ref="index"/>
+    <file name="iefonts_index.css" crc="4260846702" ref="index"/>
+    <file name="pictures.css" crc="465281994" ref="pictures"/>
+    <file name="video.css" crc="3958135410" ref="video"/>
+    <file name="video2.css" crc="118191584" ref="video2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:oct.2318:oct.2418:contact:video:oct.2918:oct.3118:nov.118:nov.718:nov.818:video2:nov.918:nov.1118:nov.1218:pictures:nov.1318:nov.1918:pictures2"/>
+    <file name="museutils.js" crc="340535759" ref="index:blog:oct.2318:oct.2418:contact:video:oct.2918:oct.3118:nov.118:nov.718:nov.818:video2:nov.918:nov.1118:nov.1218:pictures:nov.1318:nov.1918:pictures2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blog:oct.2318:oct.2418:contact:video:oct.2918:oct.3118:nov.118:nov.718:nov.818:video2:nov.918:nov.1118:nov.1218:pictures:nov.1318:nov.1918:pictures2"/>
+    <file name="museconfig.js" crc="310584261" ref="index:blog:oct.2318:oct.2418:contact:video:oct.2918:oct.3118:nov.118:nov.718:nov.818:video2:nov.918:nov.1118:nov.1218:pictures:nov.1318:nov.1918:pictures2"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:blog:oct.2318:oct.2418:contact:video:oct.2918:oct.3118:nov.118:nov.718:nov.818:video2:nov.918:nov.1118:nov.1218:pictures:nov.1318:nov.1918:pictures2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:blog:oct.2318:oct.2418:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:blog:oct.2318:oct.2418:contact:video:oct.2918:oct.3118:nov.118:nov.718:nov.818:video2:nov.918:nov.1118:nov.1218:pictures:nov.1318:nov.1918:pictures2"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contact"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u305.php" crc="187955868" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:blog:oct.2318:oct.2418:contact:video:oct.2918:oct.3118:nov.118:nov.718:nov.818:video2:nov.918:nov.1118:nov.1218:pictures:nov.1318:nov.1918:pictures2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:blog:oct.2318:oct.2418:contact:video:oct.2918:oct.3118:nov.118:nov.718:nov.818:video2:nov.918:nov.1118:nov.1218:pictures:nov.1318:nov.1918:pictures2"/>
+    <file name="require.js" crc="7928878" ref="index:blog:oct.2318:oct.2418:contact:video:oct.2918:oct.3118:nov.118:nov.718:nov.818:video2:nov.918:nov.1118:nov.1218:pictures:nov.1318:nov.1918:pictures2"/>
+    <file name="form-u1511.php" crc="4191885332" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="bg1.jpg" crc="4147264612" ref="index:blog:oct.2318:oct.2418:contact">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg2.jpg" crc="3950595014" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 540x284.jpg" crc="4139930813" seo="true" ref="oct.2318">
+      <caption webpage="oct.2318" alt=""/>
+    </file>
+    <file name="pasted image 1920x960.jpg" crc="272146435" seo="true" ref="oct.2318">
+      <caption webpage="oct.2318" alt=""/>
+    </file>
+    <file name="pasted image 1200x789.jpg" crc="3902595882" seo="true" ref="oct.2918">
+      <caption webpage="oct.2918" alt=""/>
+    </file>
+    <file name="pasted image 800x800.jpg" crc="264328887" seo="true" ref="oct.2918">
+      <caption webpage="oct.2918" alt=""/>
+    </file>
+    <file name="pasted image 500x354.jpg" crc="198684683" seo="true" ref="nov.118">
+      <caption webpage="nov.118" alt=""/>
+    </file>
+    <file name="pasted image 600x378.jpg" crc="201032852" seo="true" ref="nov.818">
+      <caption webpage="nov.818" alt=""/>
+    </file>
+    <file name="pasted image 853x563.jpg" crc="294755672" seo="true" ref="nov.818">
+      <caption webpage="nov.818" alt=""/>
+    </file>
+    <file name="pasted image 660x371.jpg" crc="4098842868" seo="true" ref="nov.918">
+      <caption webpage="nov.918" alt=""/>
+    </file>
+    <file name="pasted image 318x159.jpg" crc="411061651" seo="true" ref="nov.918">
+      <caption webpage="nov.918" alt=""/>
+    </file>
+    <file name="pasted image 800x500.jpg" crc="4213044667" seo="true" ref="nov.1118">
+      <caption webpage="nov.1118" alt=""/>
+    </file>
+    <file name="img_1021.jpg" crc="3907858003" seo="true" ref="pictures">
+      <caption webpage="pictures" alt=""/>
+    </file>
+    <file name="img_1017.jpg" crc="3860996571" seo="true" ref="pictures">
+      <caption webpage="pictures" alt=""/>
+    </file>
+    <file name="img_1019.jpg" crc="103504263" seo="true" ref="pictures">
+      <caption webpage="pictures" alt=""/>
+    </file>
+    <file name="pasted image 660x413.jpg" crc="76934459" seo="true" ref="nov.1918">
+      <caption webpage="nov.1918" alt=""/>
+    </file>
+    <file name="pasted image 300x168.jpg" crc="4037391669" seo="true" ref="nov.1918">
+      <caption webpage="nov.1918" alt=""/>
+    </file>
+    <file name="img_1059.jpg" crc="322471261" seo="true" ref="pictures2">
+      <caption webpage="pictures2" alt=""/>
+    </file>
+    <file name="img_1116.jpg" crc="287873143" seo="true" ref="pictures2">
+      <caption webpage="pictures2" alt=""/>
+    </file>
+    <file name="img_1191.jpg" crc="511522611" seo="true" ref="pictures2">
+      <caption webpage="pictures2" alt=""/>
+    </file>
+    <file name="img_1068.jpg" crc="264974169" seo="true" ref="pictures2">
+      <caption webpage="pictures2" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="118518879" seo="true" mt="1540845905258" redirect="true"/>
+  <file name="blog.html" crc="3804343339" seo="true" mt="1542666868170" redirect="true"/>
+  <file name="oct.2318.html" crc="4037079744" seo="true" mt="1540846471956" redirect="true"/>
+  <file name="oct.2418.html" crc="30841223" seo="true" mt="1540846486262" redirect="true"/>
+  <file name="contact.html" crc="3921830579" seo="true" mt="1540845905258" redirect="true"/>
+  <file name="video.html" crc="4160494099" seo="true" mt="1540845905258" redirect="true"/>
+  <file name="oct.2918.html" crc="3915452247" seo="true" mt="1540846441034" redirect="true"/>
+  <file name="oct.3118.html" crc="4213183169" seo="true" mt="1541032102935" redirect="true"/>
+  <file name="nov.118.html" crc="191969841" seo="true" mt="1541345250111" redirect="true"/>
+  <file name="nov.718.html" crc="440872820" seo="true" mt="1541732846315" redirect="true"/>
+  <file name="nov.818.html" crc="488338915" seo="true" mt="1541732444520" redirect="true"/>
+  <file name="video2.html" crc="307052309" seo="true" mt="1541732629172" redirect="true"/>
+  <file name="nov.918.html" crc="406113246" seo="true" mt="1542057135872" redirect="true"/>
+  <file name="nov.1118.html" crc="328480658" seo="true" mt="1542076804438" redirect="true"/>
+  <file name="nov.1218.html" crc="341221329" seo="true" mt="1542664909962" redirect="true"/>
+  <file name="pictures.html" crc="3773686390" seo="true" mt="1542078044250" redirect="true"/>
+  <file name="nov.1318.html" crc="50096549" seo="true" mt="1542665031921" redirect="true"/>
+  <file name="nov.1918.html" crc="493114849" seo="true" mt="1542666478426" redirect="true"/>
+  <file name="pictures2.html" crc="311556539" seo="true" mt="1542666815241" redirect="true"/>
+</manifest>
